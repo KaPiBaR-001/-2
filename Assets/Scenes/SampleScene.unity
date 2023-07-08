@@ -123,7 +123,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &199257428
+=======
+--- !u!1 &696193570
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -131,6 +135,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 199257433}
   - component: {fileID: 199257432}
   - component: {fileID: 199257431}
@@ -139,11 +144,17 @@ GameObject:
   - component: {fileID: 199257434}
   m_Layer: 0
   m_Name: Player
+=======
+  - component: {fileID: 696193571}
+  m_Layer: 0
+  m_Name: Test
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!54 &199257429
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -224,12 +235,19 @@ MeshFilter:
   m_GameObject: {fileID: 199257428}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &199257433
+=======
+--- !u!4 &696193571
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 199257428}
+=======
+  m_GameObject: {fileID: 696193570}
+>>>>>>> Stashed changes
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -238,6 +256,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!114 &199257434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -254,6 +273,8 @@ MonoBehaviour:
   xMax: 30
   zMax: 20
   HP: 5
+=======
+>>>>>>> Stashed changes
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
